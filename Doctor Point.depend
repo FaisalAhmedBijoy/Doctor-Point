@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1529960007 source:d:\project\doctor point\design.cpp
+	<bits/stdc++.h>
+	"windows.h"
+	<conio.h>
+	"Doctor.h"
+	"Patient.h"
+
+1529953448 source:d:\project\doctor point\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"windows.h"
+	"Design.h"
+
+1529737477 d:\project\doctor point\design.h
+
+1529959800 source:d:\project\doctor point\doctor.cpp
+	<bits/stdc++.h>
+	<iomanip>
+	"windows.h"
+	"Design.h"
+	"Patient.h"
+	"Doctor.h"
+	"Hospital.h"
+	<conio.h>
+
+1529917170 d:\project\doctor point\doctor.h
+
+1529867654 d:\project\doctor point\patient.h
+
+1529960248 source:d:\project\doctor point\patient.cpp
+	<bits/stdc++.h>
+	"windows.h"
+	"Design.h"
+	"Doctor.h"
+	"Hospital.h"
+	<conio.h>
+
+1529950161 source:d:\project\doctor point\hospital.cpp
+	<bits/stdc++.h>
+	"windows.h"
+	<conio.h>
+
+1529923504 d:\project\doctor point\hospital.h
+

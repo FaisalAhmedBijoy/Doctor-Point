@@ -1,0 +1,2 @@
+void hospital() ;
+//class HOSPITAL ;

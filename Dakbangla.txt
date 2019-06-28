@@ -1,0 +1,20 @@
+Doctor ID                    : 1607048
+Doctor Name                  : abir Hasan Joy
+Doctor Address               : Gollamari
+Doctor Expert in             : Girls Addicted
+Doctor Fee (VISIT)           : 500
+Doctor Mobile Number         : 01687650858
+Doctor College Name          : KMC
+Doctor FCPS Degree Institute : KU
+
+
+Doctor ID                    : 1607032
+Doctor Name                  : Yamin arafat
+Doctor Address               : KUET
+Doctor Expert in             : Medicinre
+Doctor Fee (VISIT)           : 300
+Doctor Mobile Number         : 045454
+Doctor College Name          : TT
+Doctor FCPS Degree Institute : UK
+
+

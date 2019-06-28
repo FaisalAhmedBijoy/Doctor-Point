@@ -1,0 +1,20 @@
+Doctor ID                    : 1607032
+Doctor Name                  : Yamin Arafat
+Doctor Address               : Parlament House
+Doctor Expert in             : Eye , Hair , vocal 
+Doctor Fee (VISIT)           : 500
+Doctor Mobile Number         : 01742177562
+Doctor College Name          : Tolaram Medical College
+Doctor FCPS Degree Institute : Noakhali IIT
+
+
+Doctor ID                    : 1607064
+Doctor Name                  : Tafsir Ahmed Shuvo
+Doctor Address               : Mirpur 1, Dhaka
+Doctor Expert in             : Diabetis
+Doctor Fee (VISIT)           : 10000
+Doctor Mobile Number         : 017420420420
+Doctor College Name          : Harvard Ubiversity
+Doctor FCPS Degree Institute : Cambridge 
+
+

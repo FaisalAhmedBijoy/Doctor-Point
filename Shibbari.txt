@@ -1,0 +1,20 @@
+Doctor ID                    : 1607050
+Doctor Name                  : Md Main oddin Chisty
+Doctor Address               : Maniktola
+Doctor Expert in             : Pain Keller
+Doctor Fee (VISIT)           : 200
+Doctor Mobile Number         : 01812107733
+Doctor College Name          : NDC
+Doctor FCPS Degree Institute : USA
+
+
+Doctor ID                    : 1607032
+Doctor Name                  : alif
+Doctor Address               : KUET
+Doctor Expert in             : FEVER
+Doctor Fee (VISIT)           : 20000
+Doctor Mobile Number         : 017420420420
+Doctor College Name          : TT
+Doctor FCPS Degree Institute : UK
+
+

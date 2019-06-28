@@ -1,0 +1,96 @@
+Hospital ID         : 48
+Hospital Name       : Khulna Medical College
+Hospital Address    : Boyra Bazar Road
+Hospital Mobile     : 01687650858
+
+
+Hospital ID         : 32
+Hospital Name       : Alif Medical Collgege
+Hospital Address    : Notun rasta 
+Hospital Mobile     : 012321455
+
+
+Hospital ID         : 22
+Hospital Name       : Sonadanga Medical
+Hospital Address    : sonadanga KUET
+Hospital Mobile     : 0132345
+
+
+Hospital ID         : 77
+Hospital Name       : Khan Jahan Ali Hospital
+Hospital Address    : KUET
+Hospital Mobile     : 23232323
+
+
+Hospital ID         : 44
+Hospital Name       : Gazi Medical
+Hospital Address    : Shibbari Khulna
+Hospital Mobile     : 420420
+
+
+Hospital ID         : 55
+Hospital Name       : Doctor Point Hospital
+Hospital Address    : daulatpur Khulna
+Hospital Mobile     : 123123
+
+
+Hospital ID         : 10
+Hospital Name       : city Medical College
+Hospital Address    : Moylapota 
+Hospital Mobile     : 0132315
+
+
+Hospital ID         : 32
+Hospital Name       : gazi medical
+Hospital Address    : KUET
+Hospital Mobile     : 01623155000
+
+
+Hospital ID         : 48
+Hospital Name       : Alif Medical College
+Hospital Address    : 0162325
+Hospital Mobile     : 11232
+
+
+Hospital ID         : 45
+Hospital Name       : Bijoy Medical College
+Hospital Address    : KUET
+Hospital Mobile     : 0132
+
+
+Hospital ID         : 454
+Hospital Name       : KUET
+Hospital Address    : KUET
+Hospital Mobile     : 420420
+
+
+Hospital ID         : 48
+Hospital Name       : Faisal khan Hospital
+Hospital Address    : KUET
+Hospital Mobile     : 0162311550
+
+
+Hospital ID         : 26
+Hospital Name       : Jessore Medical College
+Hospital Address    : Jessore College
+Hospital Mobile     : 01623155000
+
+
+Hospital ID         : 420
+Hospital Name       : Dip Medical College
+Hospital Address    : Khustia
+Hospital Mobile     : 01624555454
+
+
+Hospital ID         : 87
+Hospital Name       : Lalan shah Medical
+Hospital Address    : Kushtia
+Hospital Mobile     : 015614566
+
+
+Hospital ID         : 42
+Hospital Name       : KUET
+Hospital Address    : KUET
+Hospital Mobile     : 154
+
+

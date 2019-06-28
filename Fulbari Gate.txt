@@ -1,0 +1,30 @@
+Doctor ID                    : 1601012
+Doctor Name                  : Dip
+Doctor Address               : Parlament House
+Doctor Expert in             : COLD
+Doctor Fee (VISIT)           : 2000
+Doctor Mobile Number         : 016565132123
+Doctor College Name          : DMC
+Doctor FCPS Degree Institute : UK
+
+
+Doctor ID                    : 1607048
+Doctor Name                  : Faisal Ahmed 
+Doctor Address               : KUET
+Doctor Expert in             : Fever
+Doctor Fee (VISIT)           : 5000
+Doctor Mobile Number         : 01623155000
+Doctor College Name          : KMC
+Doctor FCPS Degree Institute : USA
+
+
+Doctor ID                    : 12
+Doctor Name                  : Faisal
+Doctor Address               : KUET
+Doctor Expert in             : SEX
+Doctor Fee (VISIT)           : 50
+Doctor Mobile Number         : 420420420
+Doctor College Name          : KUET
+Doctor FCPS Degree Institute : DMC
+
+
